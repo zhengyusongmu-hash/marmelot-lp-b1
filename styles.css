@@ -71,6 +71,8 @@ body {
   width: 120px;
   height: 120px;
   display: block;
+  background: #fff;
+  padding: 5px;
 }
 
 /* タブレット */
